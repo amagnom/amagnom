@@ -1,8 +1,8 @@
 ### Hello I'm Arildo Magno
 
-- 🔭 Today I work as Developer
-- 🌱 Graduate at the Federal Institute of Minas Gerais in Computer Science
-
+- :computer: Today I work as Developer
+- :bulb: Graduate at the Federal Institute of Minas Gerais in Computer Science
+- :email: Contact-Me: https://www.linkedin.com/in/arildo-magno-3a34a785/
 
 
  <div>
