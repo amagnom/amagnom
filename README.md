@@ -1,7 +1,7 @@
 ### Hello I'm Arildo Magno
 
 - :computer: Desenvolvedor Full-Stack
-- :bulb: Graduado em ciência da computação pelo IFMG.
+- :bulb: Graduado em ciência da computação pelo IFMG
 - Me encontre: https://www.linkedin.com/in/arildo-magno-3a34a785/
 
 
